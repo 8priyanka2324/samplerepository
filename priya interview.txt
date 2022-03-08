@@ -1,0 +1,20 @@
+hi sir iam priyanka gandi from .net rpa 2nd december batch. i have competed my 3 months training on rpa automation tools i.e., on 
+uipath,automation anywhere and blue prism.
+we performed automation on rpa challenge website where we dymically filled the form and captured the success rate using these
+three different tools.
+now currently iam completing my certification courses on agile and uipath course.
+these three tools are used to automate bussiness methods easily without any human intervention.
+in these tools we create a bot and with the help of this bot we fill the input form dynamically without any human intervention.
+
+
+
+
+
+//git
+
+
+C:\Users\PRGANDI\AppData\Local\Programs\Git
+
+release notes
+
+file:///C:/Users/PRGANDI/AppData/Local/Programs/Git/ReleaseNotes.html
